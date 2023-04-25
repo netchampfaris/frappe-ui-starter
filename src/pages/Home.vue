@@ -29,7 +29,7 @@ export default {
   },
   resources: {
     ping: {
-      method: 'ping',
+      url: 'ping',
     },
   },
   components: {
